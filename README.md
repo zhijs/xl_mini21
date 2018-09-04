@@ -14,3 +14,10 @@
 
 ### 开发环境搭建
 安装依赖Node,
+
+
+### 运行
+```
+react-native run-ios
+react-native run-android
+```
