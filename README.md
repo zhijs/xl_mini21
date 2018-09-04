@@ -1,7 +1,7 @@
 ### mini 项目脚手架
 
 
-### 目录结构
+### 1.目录结构
 ```
 |--src           源代码目录
 |  |--api        接口请求相关逻辑  
@@ -12,8 +12,15 @@
 |  |--util      公用工具函数目录
 ```
 
-### 开发环境搭建
-安装依赖Node,
+### 2.开发环境搭建
+https://www.jianshu.com/p/12674aa384a1
+
+
+3.clone 远程代码,并安装依赖
+```javascript
+git clone https://github.com/zhijs/xl_mini21.git
+npm install
+```
 
 
 ### 运行
