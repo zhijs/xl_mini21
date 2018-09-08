@@ -29,4 +29,5 @@ react-native run-ios
 react-native run-android
 
 react-devtools 开启调试器
+react-native log android 输出日志 console.log
 ```
